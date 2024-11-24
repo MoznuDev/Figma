@@ -1,0 +1,117 @@
+/* All Common Css Start  */
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+ul,ol{
+  list-style-type: none;
+  display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,a{
+  margin: 0;
+  padding: 0;
+  line-height: .8px;
+}
+.container{
+  width: 1320px;
+  margin: 0 auto;
+}
+/* All Common Css End  */
+/* Top Header Part Start  */
+#topHeader{
+  background: #fff;
+  padding: 10px 0;
+}
+.topItemPart{
+  display: flex;
+  justify-content: space-between;
+}
+.topLeft{
+  padding: 20px 0;
+}
+.topMid{
+  padding: 28px;
+}
+.topMid ul li{
+  display: inline-block;
+  padding:0 30px;
+font-family: "Poppins", sans-serif;
+font-size: 16px;
+}
+.topRight{
+  display: inline-block;
+  
+}
+.topRight i{
+  padding:28px 20px;
+  font-size: 24px;
+}
+/* Top Header Part End  */
+/* Banner Part Start  */
+#bannerPart{
+  background: url(../images/scandinavian-interior-mockup-wall-decal-background\ 1\ \(1\).jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+.bannerFlex{
+  display: flex;
+  padding: 150px 50px;
+}
+.bannerBlank{
+  width: 90%;
+}
+.bannerText{
+  padding: 50px 50px;
+  background:#FFF3E3
+}
+.bannerText h3{
+  padding:10px 50px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  margin-top: 35px;
+}
+.bannerText span{
+  padding: 0 40px;
+  font-size: 55px;
+  font-weight: 700;
+  color:#B88E2F;
+  font-family: "Poppins", sans-serif;
+}
+.bannerText p{
+  padding-top: 20px;
+  padding-bottom: 70px;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  margin: 0 50px;
+}
+.bannerText a{
+ padding: 20px 120px;
+ background: #B88E2F;
+ margin-left: 50px;
+ font-size: 24px;
+ font-weight: 700;
+ color: #fff;
+ }
+/* Banner Part End  */
+/* Rank Part Start  */
+.rankFlex{
+  display: flex;
+  padding: 75px 0;
+  text-align: center;
+}
+.rank{
+  width: 37%;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+}
+/* Rank Part End  */
+/* Top Header Part Start  */
+/* Top Header Part End  */
+/* Top Header Part Start  */
+/* Top Header Part End  */
+/* Top Header Part Start  */
+/* Top Header Part End  */
