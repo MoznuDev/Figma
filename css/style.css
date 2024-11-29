@@ -110,8 +110,150 @@ font-size: 16px;
 }
 /* Rank Part End  */
 /* Top Header Part Start  */
+#productPart{
+  background: #fff;
+}
+.productTop{
+text-align: center;
+}
+.productTop h1{
+font-size: 40px;
+font-weight: 700;
+}
+.productPartFlex{
+  display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+ padding: 50px 0;
+}
+.product{
+  width:285px;
+  height:446px ;
+  box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+  margin: 15px 0;
+}
+.product h3{
+font-size: 24px;
+padding: 20px 10px;
+}
+.product h4{
+  font-size: 16;
+  padding: 20px 10px;
+  color: #898989;
+}
+.priceFlex{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+}
 /* Top Header Part End  */
-/* Top Header Part Start  */
-/* Top Header Part End  */
-/* Top Header Part Start  */
-/* Top Header Part End  */
+/* Beautiful Part Start  */
+#beautifulPart{
+  background:#FCF8F3 ;
+}
+.beautifulFlex{
+  display: flex;
+}
+.room{
+  width: 35%;
+ margin-top: 230px;
+ font-weight: 700;
+}
+.room span{
+  font-size: 40px;
+  font-weight: 700;
+}
+.paces{
+  width: 33%;
+  position:relative ;
+}
+.pacesItem{
+  position: absolute;
+  bottom: 50px;
+  left: 20px;
+  background: #fff;
+  padding: 20px;
+}
+.paces h4{
+  padding: 10px 0;
+
+}
+.room h1{
+font-size: 40px;
+}
+.room p{
+  font-size: 24px;
+  padding: 30px 0;
+  font-weight: 400;
+}
+.room a{
+  padding: 15px 20px;
+  background: goldenrod;
+}
+/* Beautiful Part End  */
+/* Funiro Part Start  */
+#funiroPart{
+  background: #fff;
+  margin: 40px 0;
+}
+.funiroItemPart{
+  display: flex;
+  justify-content: space-between;
+}
+.funiro h1{
+  padding-bottom: 40px;
+}
+.funiro h4{
+  padding: 20px 0;
+  font-family: "Poppins", sans-serif;
+  color:#9F9F9F;
+  font-size: 16px;
+}
+.funiro span{
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color:#9F9F9F ;
+}
+.manu li{
+  padding: 10px 0; 
+}
+.help ul li{
+  padding: 10px 0;
+}
+.help h5{
+  padding-bottom: 20px;
+}
+.news a{
+  text-decoration: underline;
+  color: #898989;
+}
+.news h6{
+  margin-bottom: 20px;
+}
+.viws a{
+  text-decoration: underline;
+  color: #898989;
+}
+/* Funiro Part End  */
+/* Under line Part start */
+.underLine{
+  height: 2px;
+  width: 1200px;
+  background: #898989;
+}
+.underLine {
+  margin-top: 30px;
+  margin-bottom: 500px;
+}
+.underLine h6{
+  padding: 
+  40px 0;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: #898989;
+}
+  
+
+
+
+/* Under line Part End  */
